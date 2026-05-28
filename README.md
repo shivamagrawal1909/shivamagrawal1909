@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" />
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="60%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shivam Agrawal</h1>
 
