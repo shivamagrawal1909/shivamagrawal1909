@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Shivam Agrawal</h1>
 
 <h3 align="center">
